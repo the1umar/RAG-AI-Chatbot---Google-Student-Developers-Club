@@ -24,6 +24,3 @@ This workshop aimed to build a Retrieval-Augmented Generation (RAG) AI chatbot. 
 ### Day 3: Deployment and Testing
 - Integration of the RAG chatbot into Streamlit for a user-friendly interface.
 - Interactive testing and iterative feedback sessions.
-
-## Getting Started
-To run the projects from this workshop, clone the repository and follow the setup instructions in each day's notebook. Ensure all dependencies are installed, and run the Streamlit app to interact with the chatbot.
